@@ -1,0 +1,11 @@
+#magnify_img{
+    height: 120px;
+    width: 120px;
+}
+#center_1{
+    font-style: italic;
+    vertical-align: middle;
+}
+#center_2{
+    font-family: 'Montserrat', sans-serif;
+}
